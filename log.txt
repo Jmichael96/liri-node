@@ -1,267 +1,472 @@
-
-
-do-what-it-says  ||  
-
-
-spotify-this-song  ||  i am free
-
-Artist: Cosmos & Creature
-Song Title: I Am Free
-============
-Artist: YNW Melly
-Song Title: Free Trell
-============
-Artist: Free Throw
-Song Title: Randy, I Am The Liquor
-============
-Artist: All Sons & Daughters
-Song Title: I Am Set Free
-============
-Artist: All Sons & Daughters
-Song Title: I Am Set Free
-============
-Artist: We Came As Romans
-Song Title: I Am Free
-============
-Artist: Newsboys
-Song Title: I Am Free (Who The Son Sets Free)
-============
-Artist: New Life Worship
-Song Title: Here In Your Presence
-============
-Artist: Mariah Carey
-Song Title: I Am Free
-============
-Artist: Israel Houghton
-Song Title: Free Indeed (You Said I Am)
-============
-Artist: FREE CHAPEL MUSIC
-Song Title: Here I Am
-============
-Artist: Mouse
-Song Title: Am I Free?
-============
-Artist: NINE + NINE
-Song Title: Free
-============
-Artist: Fat Trel
-Song Title: Rob Me
-============
-Artist: The Bunny The Bear
-Song Title: I Am Free
-============
-Artist: All Sons & Daughters
-Song Title: I Am Set Free
-============
-Artist: Israel Houghton
-Song Title: Free Indeed (You Said I Am)
-============
-Artist: CalledOut Music
-Song Title: I Am Free
-============
-Artist: New Life Worship
-Song Title: I Am Free
-============
-Artist: Natalia Kills
-Song Title: Free - New Version
-============
-
-spotify-this-song  ||  Baby
-
-Artist: Lil Baby
-Song Title: Drip Too Hard
-============
-Artist: Lil Baby
-Song Title: Drip Too Hard (Lil Baby & Gunna)
-============
-Artist: Lil Baby
-Song Title: Yes Indeed
-============
-Artist: Lil Baby
-Song Title: Business Is Business (Lil Baby & Gunna)
-============
-Artist: Lil Baby
-Song Title: Close Friends (Lil Baby & Gunna)
-============
-Artist: Lil Baby
-Song Title: Never Recover (Lil Baby & Gunna, Drake)
-============
-Artist: Lil Baby
-Song Title: Belly (Lil Baby & Gunna)
-============
-Artist: Lil Baby
-Song Title: Underdog (Lil Baby & Gunna)
-============
-Artist: Young Thug
-Song Title: Chanel (Go Get It) [feat. Gunna & Lil Baby]
-============
-Artist: Lil Baby
-Song Title: I Am (Lil Baby & Gunna)
-============
-Artist: Lil Baby
-Song Title: Deep End (Lil Baby & Gunna)
-============
-Artist: Kodak Black
-Song Title: Roll In Peace (feat. XXXTENTACION)
-============
-Artist: Gunna
-Song Title: World Is Yours (Lil Baby & Gunna)
-============
-Artist: Quavo
-Song Title: LOSE IT (feat. Lil Baby)
-============
-Artist: Lil Baby
-Song Title: Seals Pills (Lil Baby & Gunna)
-============
-Artist: Lil Baby
-Song Title: Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)
-============
-Artist: Gunna
-Song Title: Style Stealer (Lil Baby & Gunna)
-============
-Artist: Gunna
-Song Title: Sold Out Dates (feat. Lil Baby)
-============
-Artist: Lil Baby
-Song Title: My Jeans (Lil Baby & Gunna feat. Young Thug)
-============
-Artist: Lil Baby
-Song Title: Life Goes On
-============
-
-spotify-this-song  ||  Baby by justin bieber
-
-Artist: Bhangra Remix Band
-Song Title: Sonyee Baby (Inspired By Justin Bieber)
-============
-Artist: Real Instrumentals
-Song Title: Baby (Karaoke Version) - Originally Performed By Justin Bieber
-============
-Artist: The Lullaby Ensemble
-Song Title: Somebody To Love (Made Famous By Justin Bieber)
-============
-Artist: Made famous by Justin Bieber & Ludacris
-Song Title: Baby
-============
-Artist: Bossa Nova All-Star Ensemble
-Song Title: Baby (Made Famous by Justin Bieber feat. Ludacris)
-============
-Artist: Piano Tribute Players
-Song Title: Baby - Composed Or Made Famous By: Justin Bieber & Ludacris
-============
-Artist: The Lullaby Ensemble
-Song Title: Baby (Made Famous by Justin Bieber)
-============
-Artist: Pop Lullaby Ensemble
-Song Title: Baby (Made Famous by Justin Bieber)
-============
-Artist: Piano Tribute Players
-Song Title: Baby (Made Famous by Justin Bieber)
-============
-Artist: Smooth Jazz Ensemble
-Song Title: Baby (Made Famous by Justin Bieber)
-============
-Artist: Pop Lullaby Ensemble
-Song Title: Somebody To Love (Made Famous by Justin Bieber)
-============
-Artist: Baby Lullaby Ensemble
-Song Title: Bad Day (Originally Performed by Justin Bieber) [Lullaby Version]
-============
-Artist: Future Pop Hitmakers
-Song Title: Baby (Made Famous by Justin Bieber)
-============
-Artist: Baby Lullaby Ensemble
-Song Title: All That Matters (Originally Performed by Justin Bieber) [Lullaby Version]
-============
-Artist: Cardio Workout Crew
-Song Title: Baby (Made Famous by Justin Bieber)
-============
-Artist: Baby Lullaby Ensemble
-Song Title: Baby (Made Famous By Justin Bieber)
-============
-Artist: The Future Hit Makers
-Song Title: Baby (Made Famous by Justin Bieber)
-============
-Artist: The Future Hit Makers
-Song Title: Baby (Made Famous by Justin Bieber)
-============
-Artist: The Future Hit Makers
-Song Title: Baby (Made Famous by Justin Bieber)
-============
-Artist: The Future Hit Makers
-Song Title: Baby (Made Famous by Justin Bieber)
-============
-
-movie-this  ||  patriot
-
-
-movie-this  ||  matrix
-
-
-movie-this  ||  matrix
-Artist: Lil Baby
-Song: Never Recover (Lil Baby & Gunna, Drake)
-Album the song is from: Drip Harder
+------------------------------BANDS IN TOWN ------------------------------
+VENUE: Bryce Jordan Center
+LOCATION OF VENUE: University Park
+DATE: Oct 20th 2018 undefined
+------------------------------ END ------------------------------
+------------------------------ MOVIE REVIEW ------------------------------
+Title: The Lion King
+Year: 1994
+Imdb Rating: 8.5
+Country: USA
+Language: English, Swahili, Xhosa, Zulu
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+Rotten Tomatoes Rating: N/A
+------------------------------ END ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Eminem
+Song: In Your Head
+Album the song is from: Revival
 Preview Url: null
 ------------------------------ 0 ------------------------------
-Artist: Lil Baby
-Song: Drip Too Hard (Lil Baby & Gunna)
-Album the song is from: Drip Harder
-Preview Url: null
------------------------------- 3 ------------------------------
-Artist: Lil Baby
-Song: Yes Indeed
-Album the song is from: Harder Than Ever
-Preview Url: null
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: moow
+Song: You'r in My Head
+Album the song is from: I Can't Tell You How Much It Hurts
+Preview Url: https://p.scdn.co/mp3-preview/65f26e61aa7ea76ea361da5e5e28ca4a4dd9d4c2?cid=f54dac1df22948fab269f7bd1e6efa15
 ------------------------------ 2 ------------------------------
-Artist: Lil Baby
-Song: Drip Too Hard
-Album the song is from: Drip Too Hard
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: I Prevail
+Song: Stuck In Your Head
+Album the song is from: Lifelines
 Preview Url: null
 ------------------------------ 1 ------------------------------
-Artist: Lil Baby
-Song: Close Friends (Lil Baby & Gunna)
-Album the song is from: Drip Harder
-Preview Url: null
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: dandelion hands
+Song: How To Never Stop Being Sad
+Album the song is from: It's All In Your Head
+Preview Url: https://p.scdn.co/mp3-preview/d8ea48425a131006ae102a15664a2f94c8395063?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 3 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: G Jones
+Song: In Your Head
+Album the song is from: In Your Head
+Preview Url: https://p.scdn.co/mp3-preview/2fbe27fd823eb11c9885c15d68855cb7bb845351?cid=f54dac1df22948fab269f7bd1e6efa15
 ------------------------------ 4 ------------------------------
------------------------------- begin ------------------------------
------------------------------- begin ------------------------------
------------------------------- begin ------------------------------
------------------------------- begin ------------------------------
------------------------------- begin ------------------------------
------------------------------- begin ------------------------------
------------------------------- begin ------------------------------
------------------------------- begin ------------------------------
------------------------------- begin ------------------------------
------------------------------- begin ------------------------------
------------------------------- begin ------------------------------
------------------------------- begin ------------------------------
------------------------------- begin ------------------------------
------------------------------- begin ------------------------------
-Artist: Taylor Swift
-Song: Love Story
-Album the song is from: Fearless
-Preview Url: null
------------------------------- 1 ------------------------------
-Artist: Yelawolf
-Song: Till It's Gone
-Album the song is from: Love Story
-Preview Url: null
+------------------------------ MOVIE REVIEW ------------------------------
+Title: undefined
+Year: undefined
+Imdb Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+------------------------------ END ------------------------------
+------------------------------ MOVIE REVIEW ------------------------------
+Title: Toy Story
+Year: 1995
+Imdb Rating: 8.3
+Country: USA
+Language: English
+Plot: A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+Actors: Tom Hanks, Tim Allen, Don Rickles, Jim Varney
+Rotten Tomatoes Rating: N/A
+------------------------------ END ------------------------------
+------------------------------BANDS IN TOWN ------------------------------
+VENUE: Bryce Jordan Center
+LOCATION OF VENUE: University Park
+DATE: Oct 20th 2018undefined
+------------------------------ END ------------------------------
+------------------------------BANDS IN TOWN ------------------------------
+VENUE: undefined
+LOCATION OF VENUE: University Park
+DATE: Oct 20th 2018undefined
+------------------------------ END ------------------------------
+------------------------------BANDS IN TOWN ------------------------------
+VENUE: Metallica
+LOCATION OF VENUE: University Park
+DATE: Oct 20th 2018undefined
+------------------------------ END ------------------------------
+------------------------------BANDS IN TOWN ------------------------------
+BAND NAME: Metallica
+VENUE: Bryce Jordan Center
+LOCATION OF VENUE: University Park
+DATE: Oct 20th 2018undefined
+------------------------------ END ------------------------------
+------------------------------BANDS IN TOWN ------------------------------
+undefinedMetallica,Jim Breuer
+VENUE: Spectrum Center
+LOCATION OF VENUE: Charlotte
+DATE: Oct 21st 2018undefined
+------------------------------ END ------------------------------
+------------------------------BANDS IN TOWN ------------------------------
+BAND NAME: Metallica,Jim Breuer
+VENUE: Spectrum Center
+LOCATION OF VENUE: Charlotte
+DATE: Oct 21st 2018undefined
+------------------------------ END ------------------------------
+------------------------------BANDS IN TOWN ------------------------------
+BAND NAME: Metallica,Jim Breuer
+VENUE: Spectrum Center
+LOCATION OF VENUE: Charlotte
+DATE: Oct 21st 2018undefined
+------------------------------ END ------------------------------
+------------------------------BANDS IN TOWN ------------------------------
+BAND NAME: Metallica,Jim Breuer
+VENUE: Spectrum Center
+LOCATION OF VENUE: Charlotte
+DATE: Oct 21st 2018undefined
+------------------------------ END ------------------------------
+------------------------------BANDS IN TOWN ------------------------------
+BAND NAME: Metallica,Jim Breuer
+VENUE: Spectrum Center
+LOCATION OF VENUE: Charlotte
+DATE: Oct 21st 2018undefined
+------------------------------ END ------------------------------
+------------------------------BANDS IN TOWN ------------------------------
+BAND NAME: Metallica,Jim Breuer
+VENUE: Spectrum Center
+LOCATION OF VENUE: Charlotte
+DATE: Oct 21st 2018undefined
+------------------------------ END ------------------------------
+------------------------------BANDS IN TOWN ------------------------------
+LINEUP: Metallica,Jim Breuer
+VENUE: Spectrum Center
+LOCATION OF VENUE: Charlotte
+DATE: dddd, MMMM Do YYYY [at] h:mm Aundefined
+------------------------------ END ------------------------------
+------------------------------BANDS IN TOWN ------------------------------
+BAND NAME: Metallica,Jim Breuer
+VENUE: Spectrum Center
+LOCATION OF VENUE: Charlotte
+DATE: Sunday, October 21st 2018 at 5:03 PMundefined
+------------------------------ END ------------------------------
+------------------------------ MOVIE REVIEW ------------------------------
+Title: Cars
+Year: 2006
+Imdb Rating: 7.1
+Country: USA
+Language: English, Italian, Japanese, Yiddish
+Plot: A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
+Actors: Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy
+Rotten Tomatoes Rating: N/A
+------------------------------ END ------------------------------
+[36m------------------------------ MOVIE REVIEW ------------------------------[39m
+[36mTitle: Cars[39m
+[36mYear: 2006[39m
+[36mImdb Rating: 7.1[39m
+[36mCountry: USA[39m
+[36mLanguage: English, Italian, Japanese, Yiddish[39m
+[36mPlot: A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.[39m
+[36mActors: Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy[39m
+[36mRotten Tomatoes Rating: N/A[39m
+[36m------------------------------ END ------------------------------[39m
+[36m[39m------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Wande Coal
+Song: Baby Hello
+Album the song is from: Wanted
+Preview Url: https://p.scdn.co/mp3-preview/d8a13fd02197c1df8d1ef9d8de57adc462742a37?cid=f54dac1df22948fab269f7bd1e6efa15
 ------------------------------ 3 ------------------------------
-Artist: Kevin Abstract
-Song: Empty
-Album the song is from: American Boyfriend: A Suburban Love Story
-Preview Url: https://p.scdn.co/mp3-preview/e2057c32537989cd4a051730fc7be488f34755b6?cid=f54dac1df22948fab269f7bd1e6efa15
------------------------------- 2 ------------------------------
-Artist: LANCO
-Song: Greatest Love Story
-Album the song is from: Hallelujah Nights
-Preview Url: https://p.scdn.co/mp3-preview/a1a3c9f746e42b5854dd6814eadb5ee118d23d40?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Rockabye Baby!
+Song: Hello
+Album the song is from: Lullaby Renditions of Adele
+Preview Url: https://p.scdn.co/mp3-preview/42a242234877584bbc7415981224861f37868a33?cid=f54dac1df22948fab269f7bd1e6efa15
 ------------------------------ 0 ------------------------------
-Artist: Yelawolf
-Song: Best Friend
-Album the song is from: Love Story
-Preview Url: null
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Rockabye Baby!
+Song: Hello, Goodbye
+Album the song is from: More Lullaby Renditions of the Beatles
+Preview Url: https://p.scdn.co/mp3-preview/c3ba44a79843a331225d0b3d0216cb94e8eb409c?cid=f54dac1df22948fab269f7bd1e6efa15
 ------------------------------ 4 ------------------------------
-[object Object]------------------------------ begin ------------------------------
------------------------------- begin ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Hellogoodbye
+Song: Baby, It's Fact
+Album the song is from: Zombies! Aliens! Vampires! Dinosaurs! And More!
+Preview Url: null
+------------------------------ 1 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: TrapMu
+Song: Hello Baby
+Album the song is from: Love Is Love
+Preview Url: https://p.scdn.co/mp3-preview/5b9a3ac6e537ba647a4e5e6566f0fcd16a2bfe0d?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 2 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: TrapMu
+Song: Hello Baby
+Album the song is from: Love Is Love
+Preview Url: https://p.scdn.co/mp3-preview/5b9a3ac6e537ba647a4e5e6566f0fcd16a2bfe0d?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 2 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Rockabye Baby!
+Song: Hello
+Album the song is from: Lullaby Renditions of Adele
+Preview Url: https://p.scdn.co/mp3-preview/42a242234877584bbc7415981224861f37868a33?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 0 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Rockabye Baby!
+Song: Hello, Goodbye
+Album the song is from: More Lullaby Renditions of the Beatles
+Preview Url: https://p.scdn.co/mp3-preview/c3ba44a79843a331225d0b3d0216cb94e8eb409c?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 4 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Wande Coal
+Song: Baby Hello
+Album the song is from: Wanted
+Preview Url: https://p.scdn.co/mp3-preview/d8a13fd02197c1df8d1ef9d8de57adc462742a37?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 3 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Hellogoodbye
+Song: Baby, It's Fact
+Album the song is from: Zombies! Aliens! Vampires! Dinosaurs! And More!
+Preview Url: null
+------------------------------ 1 ------------------------------
+[35m[47m------------------------------ SPOTIFY THIS SONG ------------------------------[49m[39m
+[35m[47mArtist: Rockabye Baby![49m[39m
+[35m[47mSong: Hello[49m[39m
+[35m[47mAlbum the song is from: Lullaby Renditions of Adele[49m[39m
+[35m[47mPreview Url: https://p.scdn.co/mp3-preview/42a242234877584bbc7415981224861f37868a33?cid=f54dac1df22948fab269f7bd1e6efa15[49m[39m
+[35m[47m------------------------------ 0 ------------------------------[49m[39m
+[35m[47m[49m[39m[35m[47m------------------------------ SPOTIFY THIS SONG ------------------------------[49m[39m
+[35m[47mArtist: Hellogoodbye[49m[39m
+[35m[47mSong: Baby, It's Fact[49m[39m
+[35m[47mAlbum the song is from: Zombies! Aliens! Vampires! Dinosaurs! And More![49m[39m
+[35m[47mPreview Url: null[49m[39m
+[35m[47m------------------------------ 1 ------------------------------[49m[39m
+[35m[47m[49m[39m[35m[47m------------------------------ SPOTIFY THIS SONG ------------------------------[49m[39m
+[35m[47mArtist: TrapMu[49m[39m
+[35m[47mSong: Hello Baby[49m[39m
+[35m[47mAlbum the song is from: Love Is Love[49m[39m
+[35m[47mPreview Url: https://p.scdn.co/mp3-preview/5b9a3ac6e537ba647a4e5e6566f0fcd16a2bfe0d?cid=f54dac1df22948fab269f7bd1e6efa15[49m[39m
+[35m[47m------------------------------ 2 ------------------------------[49m[39m
+[35m[47m[49m[39m[35m[47m------------------------------ SPOTIFY THIS SONG ------------------------------[49m[39m
+[35m[47mArtist: Rockabye Baby![49m[39m
+[35m[47mSong: Hello, Goodbye[49m[39m
+[35m[47mAlbum the song is from: More Lullaby Renditions of the Beatles[49m[39m
+[35m[47mPreview Url: https://p.scdn.co/mp3-preview/c3ba44a79843a331225d0b3d0216cb94e8eb409c?cid=f54dac1df22948fab269f7bd1e6efa15[49m[39m
+[35m[47m------------------------------ 4 ------------------------------[49m[39m
+[35m[47m[49m[39m[35m[47m------------------------------ SPOTIFY THIS SONG ------------------------------[49m[39m
+[35m[47mArtist: Wande Coal[49m[39m
+[35m[47mSong: Baby Hello[49m[39m
+[35m[47mAlbum the song is from: Wanted[49m[39m
+[35m[47mPreview Url: https://p.scdn.co/mp3-preview/d8a13fd02197c1df8d1ef9d8de57adc462742a37?cid=f54dac1df22948fab269f7bd1e6efa15[49m[39m
+[35m[47m------------------------------ 3 ------------------------------[49m[39m
+[35m[47m[49m[39m[35m------------------------------ SPOTIFY THIS SONG ------------------------------[39m
+[35mArtist: Rockabye Baby![39m
+[35mSong: Hello[39m
+[35mAlbum the song is from: Lullaby Renditions of Adele[39m
+[35mPreview Url: https://p.scdn.co/mp3-preview/42a242234877584bbc7415981224861f37868a33?cid=f54dac1df22948fab269f7bd1e6efa15[39m
+[35m------------------------------ 0 ------------------------------[39m
+[35m[39m[35m------------------------------ SPOTIFY THIS SONG ------------------------------[39m
+[35mArtist: TrapMu[39m
+[35mSong: Hello Baby[39m
+[35mAlbum the song is from: Love Is Love[39m
+[35mPreview Url: https://p.scdn.co/mp3-preview/5b9a3ac6e537ba647a4e5e6566f0fcd16a2bfe0d?cid=f54dac1df22948fab269f7bd1e6efa15[39m
+[35m------------------------------ 2 ------------------------------[39m
+[35m[39m[35m------------------------------ SPOTIFY THIS SONG ------------------------------[39m
+[35mArtist: Rockabye Baby![39m
+[35mSong: Hello, Goodbye[39m
+[35mAlbum the song is from: More Lullaby Renditions of the Beatles[39m
+[35mPreview Url: https://p.scdn.co/mp3-preview/c3ba44a79843a331225d0b3d0216cb94e8eb409c?cid=f54dac1df22948fab269f7bd1e6efa15[39m
+[35m------------------------------ 4 ------------------------------[39m
+[35m[39m[35m------------------------------ SPOTIFY THIS SONG ------------------------------[39m
+[35mArtist: Hellogoodbye[39m
+[35mSong: Baby, It's Fact[39m
+[35mAlbum the song is from: Zombies! Aliens! Vampires! Dinosaurs! And More![39m
+[35mPreview Url: null[39m
+[35m------------------------------ 1 ------------------------------[39m
+[35m[39m[35m------------------------------ SPOTIFY THIS SONG ------------------------------[39m
+[35mArtist: Wande Coal[39m
+[35mSong: Baby Hello[39m
+[35mAlbum the song is from: Wanted[39m
+[35mPreview Url: https://p.scdn.co/mp3-preview/d8a13fd02197c1df8d1ef9d8de57adc462742a37?cid=f54dac1df22948fab269f7bd1e6efa15[39m
+[35m------------------------------ 3 ------------------------------[39m
+[35m[39m[35m------------------------------ SPOTIFY THIS SONG ------------------------------[39m
+[35mArtist: Rockabye Baby![39m
+[35mSong: Hello[39m
+[35mAlbum the song is from: Lullaby Renditions of Adele[39m
+[35mPreview Url: https://p.scdn.co/mp3-preview/42a242234877584bbc7415981224861f37868a33?cid=f54dac1df22948fab269f7bd1e6efa15[39m
+[35m------------------------------ 0 ------------------------------[39m
+[35m[39m[35m------------------------------ SPOTIFY THIS SONG ------------------------------[39m
+[35mArtist: TrapMu[39m
+[35mSong: Hello Baby[39m
+[35mAlbum the song is from: Love Is Love[39m
+[35mPreview Url: https://p.scdn.co/mp3-preview/5b9a3ac6e537ba647a4e5e6566f0fcd16a2bfe0d?cid=f54dac1df22948fab269f7bd1e6efa15[39m
+[35m------------------------------ 2 ------------------------------[39m
+[35m[39m[35m------------------------------ SPOTIFY THIS SONG ------------------------------[39m
+[35mArtist: Hellogoodbye[39m
+[35mSong: Baby, It's Fact[39m
+[35mAlbum the song is from: Zombies! Aliens! Vampires! Dinosaurs! And More![39m
+[35mPreview Url: null[39m
+[35m------------------------------ 1 ------------------------------[39m
+[35m[39m[35m------------------------------ SPOTIFY THIS SONG ------------------------------[39m
+[35mArtist: Wande Coal[39m
+[35mSong: Baby Hello[39m
+[35mAlbum the song is from: Wanted[39m
+[35mPreview Url: https://p.scdn.co/mp3-preview/d8a13fd02197c1df8d1ef9d8de57adc462742a37?cid=f54dac1df22948fab269f7bd1e6efa15[39m
+[35m------------------------------ 3 ------------------------------[39m
+[35m[39m[35m------------------------------ SPOTIFY THIS SONG ------------------------------[39m
+[35mArtist: Rockabye Baby![39m
+[35mSong: Hello, Goodbye[39m
+[35mAlbum the song is from: More Lullaby Renditions of the Beatles[39m
+[35mPreview Url: https://p.scdn.co/mp3-preview/c3ba44a79843a331225d0b3d0216cb94e8eb409c?cid=f54dac1df22948fab269f7bd1e6efa15[39m
+[35m------------------------------ 4 ------------------------------[39m
+[35m[39m------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Rockabye Baby!
+Song: Hello
+Album the song is from: Lullaby Renditions of Adele
+Preview Url: https://p.scdn.co/mp3-preview/42a242234877584bbc7415981224861f37868a33?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 0 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Rockabye Baby!
+Song: Hello, Goodbye
+Album the song is from: More Lullaby Renditions of the Beatles
+Preview Url: https://p.scdn.co/mp3-preview/c3ba44a79843a331225d0b3d0216cb94e8eb409c?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 4 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Hellogoodbye
+Song: Baby, It's Fact
+Album the song is from: Zombies! Aliens! Vampires! Dinosaurs! And More!
+Preview Url: null
+------------------------------ 1 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: TrapMu
+Song: Hello Baby
+Album the song is from: Love Is Love
+Preview Url: https://p.scdn.co/mp3-preview/5b9a3ac6e537ba647a4e5e6566f0fcd16a2bfe0d?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 2 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Wande Coal
+Song: Baby Hello
+Album the song is from: Wanted
+Preview Url: https://p.scdn.co/mp3-preview/d8a13fd02197c1df8d1ef9d8de57adc462742a37?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 3 ------------------------------
+[31m------------------------------ MOVIE REVIEW ------------------------------[39m
+[31mTitle: The Angry Birds Movie[39m
+[31mYear: 2016[39m
+[31mImdb Rating: 6.3[39m
+[31mCountry: Finland, USA[39m
+[31mLanguage: English[39m
+[31mPlot: Find out why the birds are so angry. When an island populated by happy, flightless birds is visited by mysterious green piggies, it's up to three unlikely outcasts - Red, Chuck and Bomb - to figure out what the pigs are up to.[39m
+[31mActors: Jason Sudeikis, Josh Gad, Danny McBride, Maya Rudolph[39m
+[31mRotten Tomatoes Rating: N/A[39m
+[31m------------------------------ END ------------------------------[39m
+[31m[39m------------------------------ MOVIE REVIEW ------------------------------
+Title: The Angry Birds Movie
+Year: 2016
+Imdb Rating: 6.3
+Country: Finland, USA
+Language: English
+Plot: Find out why the birds are so angry. When an island populated by happy, flightless birds is visited by mysterious green piggies, it's up to three unlikely outcasts - Red, Chuck and Bomb - to figure out what the pigs are up to.
+Actors: Jason Sudeikis, Josh Gad, Danny McBride, Maya Rudolph
+Rotten Tomatoes Rating: N/A
+------------------------------ END ------------------------------
+------------------------------ MOVIE REVIEW ------------------------------
+Title: The Angry Birds Movie
+Year: 2016
+Imdb Rating: 6.3
+Country: Finland, USA
+Language: English
+Plot: Find out why the birds are so angry. When an island populated by happy, flightless birds is visited by mysterious green piggies, it's up to three unlikely outcasts - Red, Chuck and Bomb - to figure out what the pigs are up to.
+Actors: Jason Sudeikis, Josh Gad, Danny McBride, Maya Rudolph
+Rotten Tomatoes Rating: N/A
+------------------------------ END ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Code Orange
+Song: Alone In A Room
+Album the song is from: I Am King
+Preview Url: https://p.scdn.co/mp3-preview/f483bbd5ea23d86a0b31d7ea3523f73f3a59069d?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 3 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Asking Alexandria
+Song: Alone In A Room
+Album the song is from: Asking Alexandria
+Preview Url: https://p.scdn.co/mp3-preview/c1a1ec177ca79ec1210e9b4c49e2061df5d3a1de?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 0 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Asking Alexandria
+Song: Alone In A Room
+Album the song is from: Alone In A Room (Acoustic Version)
+Preview Url: https://p.scdn.co/mp3-preview/c1a1ec177ca79ec1210e9b4c49e2061df5d3a1de?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 2 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Asking Alexandria
+Song: Alone In A Room - Acoustic Version
+Album the song is from: Alone In A Room (Acoustic Version)
+Preview Url: https://p.scdn.co/mp3-preview/19f398cceedf0d26d51cf395558f4220e3c19361?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 1 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: IU
+Song: In a room alone
+Album the song is from: REAL
+Preview Url: https://p.scdn.co/mp3-preview/80ab8bb846f5cfc95a70fe7efb53be93d1011bc4?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 4 ------------------------------
+------------------------------BANDS IN TOWN ------------------------------
+BAND NAME: Asking Alexandria
+VENUE: palladium
+LOCATION OF VENUE: Worcester
+DATE: Sunday, October 21st 2018 at 5:33 PMundefined
+------------------------------ END ------------------------------
+------------------------------BANDS IN TOWN ------------------------------
+BAND NAME: Asking Alexandria
+VENUE: palladium
+LOCATION OF VENUE: Worcester
+DATE: Sunday, October 21st 2018 at 5:33 PMundefined
+------------------------------ END ------------------------------
+------------------------------BANDS IN TOWN ------------------------------
+BAND NAME: Asking Alexandria
+VENUE: palladium
+LOCATION OF VENUE: Worcester
+DATE: Sunday, October 21st 2018 at 5:35 PMundefined
+------------------------------ END ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Code Orange
+Song: Alone In A Room
+Album the song is from: I Am King
+Preview Url: https://p.scdn.co/mp3-preview/f483bbd5ea23d86a0b31d7ea3523f73f3a59069d?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 3 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Asking Alexandria
+Song: Alone In A Room
+Album the song is from: Asking Alexandria
+Preview Url: https://p.scdn.co/mp3-preview/c1a1ec177ca79ec1210e9b4c49e2061df5d3a1de?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 0 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Asking Alexandria
+Song: Alone In A Room - Acoustic Version
+Album the song is from: Alone In A Room (Acoustic Version)
+Preview Url: https://p.scdn.co/mp3-preview/19f398cceedf0d26d51cf395558f4220e3c19361?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 1 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: IU
+Song: In a room alone
+Album the song is from: REAL
+Preview Url: https://p.scdn.co/mp3-preview/80ab8bb846f5cfc95a70fe7efb53be93d1011bc4?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 4 ------------------------------
+------------------------------ SPOTIFY THIS SONG ------------------------------
+Artist: Asking Alexandria
+Song: Alone In A Room
+Album the song is from: Alone In A Room (Acoustic Version)
+Preview Url: https://p.scdn.co/mp3-preview/c1a1ec177ca79ec1210e9b4c49e2061df5d3a1de?cid=f54dac1df22948fab269f7bd1e6efa15
+------------------------------ 2 ------------------------------
+-------------------- BANDS IN TOWN --------------------
+BAND NAME: Asking Alexandria
+VENUE: palladium
+LOCATION OF VENUE: Worcester
+DATE: Sunday, October 21st 2018 at 5:55 PM
+-------------------- END --------------------
+-------------------- BANDS IN TOWN --------------------
+BAND NAME: Asking Alexandria
+VENUE: palladium
+LOCATION OF VENUE: Worcester
+DATE: Saturday, November 10th 2018 at 7:00 PM
+-------------------- END --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: Cover Pop
+Song: Baby (Originally Performed By Justin Beiber) [Tribute Version]
+Album the song is from: Greatest Pop Tributes 2010s Volume 1
+Preview Url: https://p.scdn.co/mp3-preview/43257951f438122f7e57f6869109bc348f641d0e?cid=f54dac1df22948fab269f7bd1e6efa15
+-------------------- 0 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: B the Star
+Song: Baby (Acoustic Version) [made Famous By Justin Beiber] [karaoke Version]
+Album the song is from: 40 Super Hits Karaoke: Hit Radio
+Preview Url: https://p.scdn.co/mp3-preview/e224c8debff685fc9da458f0c62e061776984101?cid=f54dac1df22948fab269f7bd1e6efa15
+-------------------- 1 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: Original Hit Makers
+Song: Baby (Acoustic Version) [made Famous By Justin Beiber] {karaoke Version}
+Album the song is from: Sing It Like an Idol: Pop Hits, Vol. 4
+Preview Url: https://p.scdn.co/mp3-preview/943c1c5f6674a5abaa448074563ef0e79853d8fb?cid=f54dac1df22948fab269f7bd1e6efa15
+-------------------- 2 --------------------

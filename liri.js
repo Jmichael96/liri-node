@@ -1,48 +1,41 @@
 require("dotenv").config();
-// require keys.js
-// Loading the keys.js and relevant packages
+//initializing node-spotify-api package
 var Spotify = require("node-spotify-api");
+//getting data from keys file
 var keys = require("./keys.js");
+//filesystem initialize
 var fs = require("fs");
+//initializing request
 var request = require("request");
+//asigning process.argv to the switch case 'liriArguments'
 var liriArgument = process.argv[2];
+//calling the id and secret for spotify
 var spotify = new Spotify(
     keys.keys
-
-    // id: "f54dac1df22948fab269f7bd1e6efa15",
-    // secret: "3293019c70e74363af64970749c65e35",
 );
-var moment = require('moment');
-moment().format();
+//initializing chalk package
+const chalk = require("chalk");
+//initializing moment.js
+var moment = require("moment");
 
-// let url = ombd.com with your api key. trilogy api key
-// request(url, (err, res,body) => ){
-//    if (err ) throw err;
-//}
-
-
-
-// require file-system
-var fs = require('fs');
-	// Possible commands for this liri app
-	switch(liriArgument) {
-		case "my-tweets": myTweets(); break;
-		case "spotify-this-song": spotifyThisSong(); break;
-		case "movie-this": movieThis(); break;
-        case "do-what-it-says": doWhatItSays(); break;
-        case "bands-in-town": artistThis(); break;
-		// Instructions displayed in terminal to the user
-		default: console.log("\r\n" +"Try typing one of the following commands after 'node liri.js' : " +"\r\n"+
-			"1. my-tweets 'any twitter name' " +"\r\n"+
-			"2. spotify-this-song 'any song name' "+"\r\n"+
-			"3. movie-this 'any movie name' "+"\r\n"+
-            "4. do-what-it-says."+"\r\n"+
-            "5. bands-in-town. 'any artist name' "+"\r\n"+
-			"Be sure to put the movie or song name in quotation marks if it's more than one word.");
-	};
+// Possible commands for this liri app
+switch (liriArgument) {
+    case "my-tweets": myTweets(); break;
+    case "spotify-this-song": spotifyThisSong(); break;
+    case "movie-this": movieThis(); break;
+    case "do-what-it-says": doWhatItSays(); break;
+    case "bands-in-town": artistThis(); break;
+    // Instructions displayed in terminal to the user
+    default: console.log("\r\n" + "Try typing one of the following commands after 'node liri.js' : " + "\r\n" +
+        "1. spotify-this-song 'any song name' " + "\r\n" +
+        "2. movie-this 'any movie name' " + "\r\n" +
+        "3. do-what-it-says." + "\r\n" +
+        "4. bands-in-town. 'any artist name' " + "\r\n" +
+        "Be sure to put the movie or song name in quotation marks if it's more than one word.");
+};
 // Do What It Says function, uses the reads and writes module to access the random.txt file and do what's written in it
 function doWhatItSays() {
-    fs.readFile("random.txt", "utf8", function(error, data){
+    fs.readFile("random.txt", "utf8", function (error, data) {
         if (!error) {
             doWhatItSaysResults = data.split(",");
             spotifyThisSong(doWhatItSaysResults[0], doWhatItSaysResults[1]);
@@ -51,108 +44,113 @@ function doWhatItSays() {
         }
     });
 };
-// Do What It Says function, uses the reads and writes module to access the log.txt file and write everything that returns in terminal in the log.txt file
+// function that logs all the results to the log.text file in beautiful layout
 function log(logResults) {
-  fs.appendFile("log.txt", logResults, (error) => {
-    if(error) {
-      throw error;
-    }
-  });
-}
+    fs.appendFile("log.txt", logResults, (error) => {
+        if (error) {
+            throw error;
+        };
+    });
+};
 
-// Spotify function, uses the Spotify module to call the Spotify api
+// Spotify this song function
 function spotifyThisSong(songName) {
     var songName = process.argv[3];
-    if(!songName){
+    if (!songName) {
         songName = "What's my age again";
-    }
+    };
     params = songName;
-    spotify.search({ type: "track", query: params }, function(err, data) {
-        if(!err){
-            var songInfo = data.tracks.items;
-            for (var i = 0; i < 5; i++) {
-                if (songInfo[i] != undefined) {
-                    var spotifyResults =
-                    "Artist: " + songInfo[i].artists[0].name + "\r\n" +
-                    "Song: " + songInfo[i].name + "\r\n" +
-                    "Album the song is from: " + songInfo[i].album.name + "\r\n" +
-                    "Preview Url: " + songInfo[i].preview_url + "\r\n" + 
-                    "------------------------------ " + i + " ------------------------------" + "\r\n";
-                    console.log(spotifyResults);
-                    log(spotifyResults); // calling log function
+    spotify.search({ type: "track", query: params },
+        function (error, data) {
+            if (!error) {
+                var songInfo = data.tracks.items;
+                for (var i = 0; i < 5; i++) {
+                    if (songInfo[i] != undefined) {
+                        var spotifyResults =
+                            "-------------------- SPOTIFY-THIS-SONG --------------------" + "\r\n" +
+                            "Artist: " + songInfo[i].artists[0].name + "\r\n" +
+                            "Song: " + songInfo[i].name + "\r\n" +
+                            "Album the song is from: " + songInfo[i].album.name + "\r\n" +
+                            "Preview Url: " + songInfo[i].preview_url + "\r\n" +
+                            "-------------------- " + i + " --------------------" + "\r\n";
+                        console.log(chalk.bold.redBright(spotifyResults));
+                        log(spotifyResults); // calling log function
+                    }
                 }
+            } else {
+                console.log("Error :" + err);
+                return;
             }
-        }	else {
-            console.log("Error :"+ err);
-            return;
-        }
-    });
+        });
 };
-
-function movieThis(){
+// movie this function
+function movieThis() {
     var movie = process.argv[3];
-    if(!movie){
+    if (!movie) {
         movie = "mr nobody";
-    }
+    };
     params = movie
-    request("http://www.omdbapi.com/?apikey=" + keys.keys.omdbapi + "&t=" + params + "&y=&plot=short&r=json&tomatoes=true",{
-    JSON: true },
-    function (error, response, body) {
-        if (!error && response.statusCode == 200) {
-            var movieObject = JSON.parse(body);
-            //console.log(movieObject); // Show the text in the terminal
-            var movieResults =
-            "------------------------------ begin ------------------------------" + "\r\n"
-            "Title: " + movieObject.Title+"\r\n"+
-            "Year: " + movieObject.Year+"\r\n"+
-            "Imdb Rating: " + movieObject.imdbRating+"\r\n"+
-            "Country: " + movieObject.Country+"\r\n"+
-            "Language: " + movieObject.Language+"\r\n"+
-            "Plot: " + movieObject.Plot+"\r\n"+
-            "Actors: " + movieObject.Actors+"\r\n"+
-            "Rotten Tomatoes Rating: " + movieObject.tomatoRating +"\r\n"+
-            // "Rotten Tomatoes URL: " + movieObject.tomatoURL + "\r\n" + 
-            "------------------------------ fin ------------------------------" + "\r\n";
-            console.log(movieObject);
-            console.log(movieResults);
-            log(movieResults); // calling log function
-        } else {
-            console.log("Error :"+ error);
-            return;
-        }
-    });
+    request("http://www.omdbapi.com/?apikey=" + keys.keys.omdbapi + "&t=" + params + "&y=&plot=short&r=json&tomatoes=true", {
+        JSON: true
+    },
+        function (error, response, body) {
+            if (!error && response.statusCode == 200) {
+                const movieObject = JSON.parse(body);
+                //console.log(movieObject); // Show the text in the terminal
+                const movieResults =
+                    "-------------------- MOVIE REVIEW --------------------" + "\r\n" +
+                    "Title: " + movieObject.Title + "\r\n" +
+                    "Year: " + movieObject.Year + "\r\n" +
+                    "Imdb Rating: " + movieObject.imdbRating + "\r\n" +
+                    "Country: " + movieObject.Country + "\r\n" +
+                    "Language: " + movieObject.Language + "\r\n" +
+                    "Plot: " + movieObject.Plot + "\r\n" +
+                    "Actors: " + movieObject.Actors + "\r\n" +
+                    "Rotten Tomatoes Rating: " + movieObject.tomatoRating + "\r\n" +
+                    // "Rotten Tomatoes URL: " + movieObject.tomatoURL + "\r\n" + 
+                    "-------------------- END --------------------" + "\r\n";
+                console.log(chalk.bold.blue(movieResults));
+                log(movieResults); // calling log function
+            } else {
+                console.log("Error :" + error);
+                return;
+            };
+        });
 };
-function artistThis(){
+// bands in town function
+function artistThis() {
     console.log("artistThis");
-    var bandsInTown = process.argv[3];
-    if(!bandsInTown){
+    const bandsInTown = process.argv[3];
+    if (!bandsInTown) {
         console.log("Invalid Artist");
-    }
+    };
     params = bandsInTown
     console.log(params);
-    request("https://rest.bandsintown.com/artists/" + params + "/events?app_id=codingbootcamp"),
+    request("https://rest.bandsintown.com/artists/" + params + "/events?app_id=" + keys.keys.bandsintown,
+        function (error, response, body) {
+            if (!error && response.statusCode == 200) {
 
-    function (error, response, body) {
-        if (!error && response.statusCode == 200)
-         {console.log(error);
+                const bandsObject = JSON.parse(body);
+                let venueDate = 'dddd, MMMM Do YYYY [at] h:mm A'; // date displayed in the format of Thursday, April 12th 2018 at 6:29 PM
 
-            var bandsObject = JSON.parse(body);
-            //console.log(movieObject); // Show the text in the terminal
-            var bandResults =
-            "------------------------------ begin ------------------------------" + "\r\n"
-            "Name of Venue: " + name.venueData+"\r\n"+
-            "Location: " + bandsObject.venue.city+"\r\n"+
-            "Date Of Event: " + bandsObject.dateTime+"\r\n"+
-            "------------------------------ fin ------------------------------" + "\r\n";
-            console.log(bandsObject);
-            console.log(bandResults);
-            log(bandResults); // calling log function
-        } else {
-            console.log("Error :"+ error);
-            return;
-        };
-    
-    };
+                // moment(bandsObject[0].datetime).format(dateFormat)
+                const bandResults =
+                    "-------------------- BANDS IN TOWN --------------------" + "\r\n" +
+                    "BAND NAME: " + bandsObject[0].lineup + "\r\n" +
+
+                    "VENUE: " + bandsObject[0].venue.name + "\r\n" +
+
+                    "LOCATION OF VENUE: " + bandsObject[0].venue.city + "\r\n" +
+
+                    "DATE: " +  moment(bandsObject[0].datetime).format(venueDate) + "\r\n" +
+                    "-------------------- END --------------------" + "\r\n";
+                console.log(chalk.bold.magenta(bandResults));
+                log(bandResults)
+            } else {
+                console.log("Error :" + error);
+                return;
+            };
+        });
 };
 
 
