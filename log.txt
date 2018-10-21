@@ -470,3 +470,63 @@ Song: Baby (Acoustic Version) [made Famous By Justin Beiber] {karaoke Version}
 Album the song is from: Sing It Like an Idol: Pop Hits, Vol. 4
 Preview Url: https://p.scdn.co/mp3-preview/943c1c5f6674a5abaa448074563ef0e79853d8fb?cid=f54dac1df22948fab269f7bd1e6efa15
 -------------------- 2 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+                                                           Artist: Asking Alexandria
+Song: Alone In A Room
+Album the song is from: Alone In A Room (Acoustic Version)
+Preview Url: https://p.scdn.co/mp3-preview/c1a1ec177ca79ec1210e9b4c49e2061df5d3a1de?cid=f54dac1df22948fab269f7bd1e6efa15
+----------------------------------------------------------------------- 2 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+                                                           Artist: Asking Alexandria
+Song: Alone In A Room - Acoustic Version
+Album the song is from: Alone In A Room (Acoustic Version)
+Preview Url: https://p.scdn.co/mp3-preview/19f398cceedf0d26d51cf395558f4220e3c19361?cid=f54dac1df22948fab269f7bd1e6efa15
+----------------------------------------------------------------------- 1 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+                                                           Artist: Asking Alexandria
+Song: Alone In A Room
+Album the song is from: Asking Alexandria
+Preview Url: https://p.scdn.co/mp3-preview/c1a1ec177ca79ec1210e9b4c49e2061df5d3a1de?cid=f54dac1df22948fab269f7bd1e6efa15
+----------------------------------------------------------------------- 0 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+                                                           Artist: Code Orange
+Song: Alone In A Room
+Album the song is from: I Am King
+Preview Url: https://p.scdn.co/mp3-preview/f483bbd5ea23d86a0b31d7ea3523f73f3a59069d?cid=f54dac1df22948fab269f7bd1e6efa15
+----------------------------------------------------------------------- 3 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+                                                           Artist: IU
+Song: In a room alone
+Album the song is from: REAL
+Preview Url: https://p.scdn.co/mp3-preview/80ab8bb846f5cfc95a70fe7efb53be93d1011bc4?cid=f54dac1df22948fab269f7bd1e6efa15
+----------------------------------------------------------------------- 4 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: Asking Alexandria
+Song: Alone In A Room
+Album the song is from: Alone In A Room (Acoustic Version)
+Preview Url: https://p.scdn.co/mp3-preview/c1a1ec177ca79ec1210e9b4c49e2061df5d3a1de?cid=f54dac1df22948fab269f7bd1e6efa15
+-------------------- 2 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: Asking Alexandria
+Song: Alone In A Room
+Album the song is from: Asking Alexandria
+Preview Url: https://p.scdn.co/mp3-preview/c1a1ec177ca79ec1210e9b4c49e2061df5d3a1de?cid=f54dac1df22948fab269f7bd1e6efa15
+-------------------- 0 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: Code Orange
+Song: Alone In A Room
+Album the song is from: I Am King
+Preview Url: https://p.scdn.co/mp3-preview/f483bbd5ea23d86a0b31d7ea3523f73f3a59069d?cid=f54dac1df22948fab269f7bd1e6efa15
+-------------------- 3 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: Asking Alexandria
+Song: Alone In A Room - Acoustic Version
+Album the song is from: Alone In A Room (Acoustic Version)
+Preview Url: https://p.scdn.co/mp3-preview/19f398cceedf0d26d51cf395558f4220e3c19361?cid=f54dac1df22948fab269f7bd1e6efa15
+-------------------- 1 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: IU
+Song: In a room alone
+Album the song is from: REAL
+Preview Url: https://p.scdn.co/mp3-preview/80ab8bb846f5cfc95a70fe7efb53be93d1011bc4?cid=f54dac1df22948fab269f7bd1e6efa15
+-------------------- 4 --------------------
