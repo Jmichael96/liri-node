@@ -20,7 +20,6 @@ var moment = require("moment");
 
 // Possible commands for this liri app
 switch (liriArgument) {
-    case "my-tweets": myTweets(); break;
     case "spotify-this-song": spotifyThisSong(); break;
     case "movie-this": movieThis(); break;
     case "do-what-it-says": doWhatItSays(); break;
