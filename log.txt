@@ -622,3 +622,63 @@ VENUE: Spectrum Center
 LOCATION OF VENUE: Charlotte
 DATE: Monday, October 22nd 2018 at 7:30 PM
 -------------------- END --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: blink-182
+Song: What's My Age Again?
+Album the song is from: Greatest Hits
+Preview Url: null
+-------------------- 2 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: blink-182
+Song: What's My Age Again?
+Album the song is from: Enema Of The State / Take Off Your Pants And Jacket / Blink-182
+Preview Url: null
+-------------------- 3 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: blink-182
+Song: What's My Age Again?
+Album the song is from: Enema Of The State
+Preview Url: null
+-------------------- 0 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: blink-182
+Song: What's My Age Again?
+Album the song is from: Enema Of The State
+Preview Url: null
+-------------------- 1 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: Rockabye Baby!
+Song: What's My Age Again?
+Album the song is from: Lullaby Renditions of Blink-182
+Preview Url: https://p.scdn.co/mp3-preview/99358b96a5746c0fabb43b8085d0b10335f59bf8?cid=f54dac1df22948fab269f7bd1e6efa15
+-------------------- 4 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: blink-182
+Song: What's My Age Again?
+Album the song is from: Enema Of The State
+Preview Url: null
+-------------------- 1 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: blink-182
+Song: What's My Age Again?
+Album the song is from: Enema Of The State
+Preview Url: null
+-------------------- 0 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: blink-182
+Song: What's My Age Again?
+Album the song is from: Greatest Hits
+Preview Url: null
+-------------------- 2 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: blink-182
+Song: What's My Age Again?
+Album the song is from: Enema Of The State / Take Off Your Pants And Jacket / Blink-182
+Preview Url: null
+-------------------- 3 --------------------
+-------------------- SPOTIFY-THIS-SONG --------------------
+Artist: Rockabye Baby!
+Song: What's My Age Again?
+Album the song is from: Lullaby Renditions of Blink-182
+Preview Url: https://p.scdn.co/mp3-preview/99358b96a5746c0fabb43b8085d0b10335f59bf8?cid=f54dac1df22948fab269f7bd1e6efa15
+-------------------- 4 --------------------

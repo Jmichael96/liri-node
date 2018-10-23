@@ -28,18 +28,23 @@ switch (liriArgument) {
     default: console.log("\r\n" + "Try typing one of the following commands after 'node liri.js' : " + "\r\n" +
         "1. spotify-this-song 'any song name' " + "\r\n" +
         "2. movie-this 'any movie name' " + "\r\n" +
-        "3. do-what-it-says." + "\r\n" +
+        "3. do-what-it-says 'random text' " + "\r\n" +
         "4. bands-in-town. 'any artist name' " + "\r\n" +
         "Be sure to put the movie or song name in quotation marks if it's more than one word.");
 };
 // Do What It Says function, uses the reads and writes module to access the random.txt file and do what's written in it
 function doWhatItSays() {
+    // read the file random.text 
     fs.readFile("random.txt", "utf8", function (error, data) {
+        //initiating liri.js based on input recieved
         if (!error) {
-            doWhatItSaysResults = data.split(",");
-            spotifyThisSong(doWhatItSaysResults[0], doWhatItSaysResults[1]);
-        } else {
-            console.log("Error occurred" + error);
+             //split to next array after every comma
+            var doWhatItSaysResults = data.split(",");
+            console.log(data);
+
+            spotifyThisSong(doWhatItSaysResults[0]);
+        }else{
+            console.log("There is an Error " + error);
         }
     });
 };
