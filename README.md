@@ -9,5 +9,5 @@ and [IMDB](https://www.imdb.com/).
 
 ## This is a demonstration of my work
 
-![Demonstration Video](https://drive.google.com/file/d/1VlER67m4qXdK8PtHI2AbZx0-IJU7tGai/view)
+[Demonstration Video](https://drive.google.com/file/d/1VlER67m4qXdK8PtHI2AbZx0-IJU7tGai/view)
 
