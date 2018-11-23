@@ -3,7 +3,7 @@
 ## ABOUT
 This is a node application that uses API's to recieve data from 
 [Spotify](https://www.spotify.com/us/), [Bands In Town](https://manager.bandsintown.com/),
-and [IMDB](https://www.imdb.com/).
+and [IMDB](https://www.imdb.com/). All the data is stored in a text file which can then be reviewed.
 - We input a key word that is used for each individual resource ("spotify-this-song" <'song name here'>). 
 - submit a song, a band in town, or movie that sounds interesting to us and recieve the data necessary to give proper information about each subject 
 
