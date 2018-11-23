@@ -14,5 +14,7 @@ and [IMDB](https://www.imdb.com/). All the data is stored in a text file which c
 - Moment.Js
 
 ## This is a demonstration of my work
+![capture](https://user-images.githubusercontent.com/40511023/48926845-f81dae80-ee96-11e8-83c4-80ce21297151.PNG)
+
 [Demonstration Video](https://drive.google.com/file/d/1VlER67m4qXdK8PtHI2AbZx0-IJU7tGai/view)
 
